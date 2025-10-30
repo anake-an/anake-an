@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Aniq Najmuddin bin Sharifuddin 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![License](https://img.shields.io/badge/status-Student%20Developer-blue)  
 
 🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering**  
