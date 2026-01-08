@@ -5,7 +5,7 @@
 🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering**  
 💻 Passionate about **Networking, Cybersecurity & Web Technologies**  
 📍 Based in **Selangor, Malaysia**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)  
+🔗 [Let's Connect](https://linktr.ee/aniqnajm) | [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)
 
 ---
 
@@ -18,22 +18,25 @@ My personal motto: **“Networks That Never Sleep.”**
 
 ## 🚀 Featured Projects  
 - 🌐 [**CEMS – Campus Event Management System**](https://github.com/anake-an/CEMS)  
-  Web technology labs project (HTML, CSS, JS, AJAX) to manage and explore campus events.  
+  Progressive **web technology lab project** developed from **HTML & CSS** to a **full-stack PHP & MySQL system**.  
+  - Labs: HTML, CSS, JavaScript, PHP, MySQL  
+  - Features: Form validation, session handling, database integration, admin CRUD panel  
+  - Tools: XAMPP, phpMyAdmin, GitHub  
 
 - 🔐 **Upcoming FYP – Zero Trust Network Access (ZTNA) Framework for SMEs**  
   Research & implementation of a low-cost **open-source ZTNA solution** for small & medium enterprises.  
   - Tools: **OpenZiti, Keycloak, step-ca, VMware lab (Ubuntu, Windows clients)**  
   - Features: Device-bound identity, MFA integration, policy-based access control, simulated cyberattack testing  
   - SDG Alignment: **Industry, Innovation & Infrastructure (SDG 9)**, **Decent Work & Growth (SDG 8)**  
- 
-*(more projects coming soon as labs progress week by week)*  
+
+*(more projects coming soon as labs and coursework progress)*  
 
 ---
 
 ## 🛠️ Skills & Tools  
 - **Networking:** Cisco Packet Tracer, CML, VLANs, Firewall & ACL, Wireless AP Setup  
 - **Systems:** Windows, Linux Ubuntu, Kali Linux, Server Configurations  
-- **Programming:** C++, Java, Python  
+- **Programming:** C++, Java, Python, PHP  
 - **Databases:** MySQL  
 - **Other:** Cloud basics (AWS), IT Infrastructure, Cybersecurity Fundamentals  
 
@@ -52,7 +55,7 @@ My personal motto: **“Networks That Never Sleep.”**
 **PKT Logistics Group Sdn Bhd** – Network Support Trainee *(Jan–Jun 2023)*  
 - Configured Aruba & HP switches, Cisco & Ruckus APs  
 - Monitored & upgraded HQ and Peninsula networks  
-- Supported Windows Server, basic AWS environments  
+- Supported Windows Server and basic AWS environments  
 - Completed Fortinet NSE1–3 during internship  
 
 ---
@@ -70,4 +73,4 @@ My personal motto: **“Networks That Never Sleep.”**
 
 ---
 
-⚡ This README acts as my **GitHub Profile Portfolio**. It will be updated as I complete more labs (Lab01, Lab02, Lab03…) and major projects.  
+⚡ This README acts as my **GitHub Profile Portfolio**, showcasing academic labs, technical skills, and ongoing projects. It will be continuously updated as I progress through advanced labs, my FYP, and industry-related work.
