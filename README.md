@@ -2,7 +2,10 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![License](https://img.shields.io/badge/status-Student%20Developer-blue)  
 
-🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering** 💻 Passionate about **Networking, Cybersecurity & Web Technologies** 📍 Based in **Selangor, Malaysia** 🔗 [Let's Connect](https://linktr.ee/aniqnajm) | [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)
+🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering** 
+💻 Passionate about **Networking, Cybersecurity & Web Technologies** 
+📍 Based in **Selangor, Malaysia** 
+🔗 [Let's Connect](https://linktr.ee/aniqnajm) | [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)
 
 ---
 
