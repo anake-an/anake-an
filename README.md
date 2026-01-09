@@ -7,7 +7,9 @@
 ---
 
 ## 💡 About Me  
-Networking is my passion and I’m always eager to learn the latest advancements in the field. I thrive in hands-on, practical environments where I can configure, test, and optimize real systems. My personal motto: **“Networks That Never Sleep.”** ---
+Networking is my passion and I’m always eager to learn the latest advancements in the field. I thrive in hands-on, practical environments where I can configure, test, and optimize real systems. My personal motto: **“Networks That Never Sleep.”** 
+
+---
 
 ## 🚀 Latest Featured Projects 
 
