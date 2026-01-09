@@ -2,41 +2,31 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![License](https://img.shields.io/badge/status-Student%20Developer-blue)  
 
-🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering**  
-💻 Passionate about **Networking, Cybersecurity & Web Technologies**  
-📍 Based in **Selangor, Malaysia**  
-🔗 [Let's Connect](https://linktr.ee/aniqnajm) | [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)
+🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering** 💻 Passionate about **Networking, Cybersecurity & Web Technologies** 📍 Based in **Selangor, Malaysia** 🔗 [Let's Connect](https://linktr.ee/aniqnajm) | [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)
 
 ---
 
 ## 💡 About Me  
 Networking is my passion and I’m always eager to learn the latest advancements in the field.  
 I thrive in hands-on, practical environments where I can configure, test, and optimize real systems.  
-My personal motto: **“Networks That Never Sleep.”**  
+My personal motto: **“Networks That Never Sleep.”** ---
 
----
+## 🚀 Latest Featured Projects 
 
-## 🚀 Featured Projects  
-- 🌐 [**CEMS – Campus Event Management System**](https://github.com/anake-an/CEMS)  
-  Progressive **web technology lab project** developed from **HTML & CSS** to a **full-stack PHP & MySQL system**.  
-  - Labs: HTML, CSS, JavaScript, PHP, MySQL  
-  - Features: Form validation, session handling, database integration, admin CRUD panel  
-  - Tools: XAMPP, phpMyAdmin, GitHub  
+- 🏘️ [**JiranHub – Community Management System**](https://github.com/anake-an/JiranHub)  
+  A full-stack **Web Technology group project** designed to digitize community event management and engagement.  
+  - **Stack:** Native PHP, MySQL, JavaScript (AJAX), HTML5/CSS3 (Clean Hybrid Theme)  
+  - **Features:** Role-Based Access Control (RBAC), QR Code Attendance Scanner, Payment Verification, Community Forum  
+  - **Role:** Full-Stack Developer (Admin Panel, Database Architecture, Auth System)
 
-- 🔐 **Upcoming FYP – Zero Trust Network Access (ZTNA) Framework for SMEs**  
-  Research & implementation of a low-cost **open-source ZTNA solution** for small & medium enterprises.  
-  - Tools: **OpenZiti, Keycloak, step-ca, VMware lab (Ubuntu, Windows clients)**  
-  - Features: Device-bound identity, MFA integration, policy-based access control, simulated cyberattack testing  
-  - SDG Alignment: **Industry, Innovation & Infrastructure (SDG 9)**, **Decent Work & Growth (SDG 8)**  
-
-*(more projects coming soon as labs and coursework progress)*  
-
----
+- 🔐 **Upcoming FYP – Zero Trust Network Access (ZTNA) Framework for SMEs** Research & implementation of a low-cost **open-source ZTNA solution** for small & medium enterprises.  
+  - **Tools:** **OpenZiti, Keycloak, step-ca, VMware lab (Ubuntu, Windows clients)** - **Features:** Device-bound identity, MFA integration, policy-based access control, simulated cyberattack testing  
+  - **SDG Alignment:** **Industry, Innovation & Infrastructure (SDG 9)**, **Decent Work & Growth (SDG 8)** *(more projects coming soon as labs and coursework progress)* ---
 
 ## 🛠️ Skills & Tools  
 - **Networking:** Cisco Packet Tracer, CML, VLANs, Firewall & ACL, Wireless AP Setup  
 - **Systems:** Windows, Linux Ubuntu, Kali Linux, Server Configurations  
-- **Programming:** C++, Java, Python, PHP  
+- **Programming:** C++, Java, Python, PHP, SQL  
 - **Databases:** MySQL  
 - **Other:** Cloud basics (AWS), IT Infrastructure, Cybersecurity Fundamentals  
 
@@ -52,8 +42,7 @@ My personal motto: **“Networks That Never Sleep.”**
 ---
 
 ## 💼 Experience  
-**PKT Logistics Group Sdn Bhd** – Network Support Trainee *(Jan–Jun 2023)*  
-- Configured Aruba & HP switches, Cisco & Ruckus APs  
+**PKT Logistics Group Sdn Bhd** – Network Support Trainee *(Jan–Jun 2023)* - Configured Aruba & HP switches, Cisco & Ruckus APs  
 - Monitored & upgraded HQ and Peninsula networks  
 - Supported Windows Server and basic AWS environments  
 - Completed Fortinet NSE1–3 during internship  
@@ -61,10 +50,7 @@ My personal motto: **“Networks That Never Sleep.”**
 ---
 
 ## 📚 Education  
-- **Universiti Malaysia Sabah (UMS)** – Bachelor of Computer Science (Hons.) Network Engineering *(2023–2027)*  
-- **Politeknik Seberang Perai (PSP)** – Diploma in IT (Networking), CGPA 3.99 *(2020–2023)*  
-
----
+- **Universiti Malaysia Sabah (UMS)** – Bachelor of Computer Science (Hons.) Network Engineering *(2023–2027)* - **Politeknik Seberang Perai (PSP)** – Diploma in IT (Networking), CGPA 3.99 *(2020–2023)* ---
 
 ## 📫 Let’s Connect  
 - 💼 LinkedIn: [aniqnaj](https://www.linkedin.com/in/aniqnaj)  
