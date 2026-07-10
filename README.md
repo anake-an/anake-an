@@ -1,12 +1,22 @@
+<div align="center">
+
 # 👋 Hi, I'm Aniq Najmuddin bin Sharifuddin
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=3D6B5C&center=true&vCenter=true&width=600&lines=Network+Engineering+Student;Zero+Trust+%26+Self-Hosted+Infrastructure;Building+Kafa+Lokub+%2B+NOVAFORTRESS;Networks+That+Never+Sleep." alt="Typing SVG" />
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![License](https://img.shields.io/badge/status-Student%20Developer-blue)
+![Status](https://img.shields.io/badge/status-Student%20Developer-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=anake-an&color=3D6B5C&style=flat)
 
 🎓 **KPT-PCP Scholar** · 3rd Year **B.Cs. (Hons) Network Engineering**, Universiti Malaysia Sabah
 💻 Networking, Cybersecurity & Self-Hosted Infrastructure
-📍 Based in **Selangor, Malaysia**
-🔗 [Let's Connect](https://linktr.ee/aniqnajm) | [LinkedIn](https://www.linkedin.com/in/aniqnaj) | [Email](mailto:aniqnajmuddin.sfd@gmail.com)
+📍 Based in Selangor, Malaysia
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniqnaj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aniqnajmuddin.sfd@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/aniqnajm)
+
+</div>
 
 ---
 
@@ -33,9 +43,9 @@ Low-cost, open-source ZTNA framework for SMEs, built around a 3-zone architectur
 - **Tools:** OpenZiti, Laravel API Proxy, AWS EC2, mTLS
 - **Modules:** Identity & Endpoint Management, Dynamic Access Policy Engine, Endpoint Posture Verification, Geo-Fencing, Service Cloaking Monitor, Audit & Threat Logging (8 total)
 - **SDG Alignment:** Industry, Innovation & Infrastructure (SDG 9), Decent Work & Growth (SDG 8)
-- **Status:** FYP1 report submitted, FYP2 development and final report due Jan–Feb 2027
+- **Status:** FYP1 report submitted; FYP2 development and final report due Jan–Feb 2027
 
-### 🏘️ [JiranHub: Community Management System](https://github.com/anake-an/JiranHub)
+### 🏘️ [JiranHub – Community Management System](https://github.com/anake-an/JiranHub)
 Full-stack group project digitizing community event management and engagement.
 - **Stack:** Native PHP, MySQL, JavaScript (AJAX), HTML5/CSS3
 - **Features:** RBAC, QR code attendance scanning, payment verification, community forum
@@ -52,12 +62,43 @@ Ongoing self-hosted homelab used to deploy, monitor, and secure production-grade
 
 ## 🛠️ Skills & Tools
 
-- **Networking:** Zero Trust Architecture (OpenZiti), Cisco Packet Tracer, CML, VLANs, Firewall & ACL, Wireless AP Setup
-- **Infrastructure:** Docker & Docker Compose, Nginx, Cloudflare Tunnel, Linux server administration, self-hosting
-- **Systems:** Windows, Linux (Ubuntu, Debian), Kali Linux
-- **Programming:** PHP (Laravel), JavaScript/TypeScript (Next.js), Python, C++, Java, SQL
-- **Databases:** MySQL
-- **Cloud:** AWS, Cloud fundamentals
+<div align="center">
+
+**Networking & Security**
+<br>
+![OpenZiti](https://img.shields.io/badge/OpenZiti-Zero%20Trust-3D6B5C?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Infrastructure**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Programming & Frameworks**
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Systems**
+<br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</div>
 
 ---
 
@@ -90,12 +131,18 @@ Ongoing self-hosted homelab used to deploy, monitor, and secure production-grade
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: [aniqnaj](https://www.linkedin.com/in/aniqnaj)
-- 📧 Email: [aniqnajmuddin.sfd@gmail.com](mailto:aniqnajmuddin.sfd@gmail.com)
-- 🌍 GitHub: [anake-an](https://github.com/anake-an)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anake-an&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400"  />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anake-an&theme=tokyonight&hide_border=true&background=00000000&ring=3D6B5C&fire=8B7355"  />
+
+</div>
 
 ---
 
-⚡ This README acts as my **GitHub Profile Portfolio**, showcasing production systems, academic labs, and ongoing infrastructure work. Updated as FYP2 and NOVAFORTRESS progress.
+
+⚡ This README is my **GitHub Profile Portfolio**, showcasing production systems, academic labs, and ongoing infrastructure work. Updated as FYP2 and NOVAFORTRESS progress.
+
+</div>
