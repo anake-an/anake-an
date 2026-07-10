@@ -33,7 +33,7 @@ I run **NOVAFORTRESS**, a self-hosted homelab (UGREEN DXP4800 Plus, Debian 12) w
 ### 🕌 [Kafa Lokub: School Management System](https://kafalokub.my) (*Production, 80+ students*)
 A 29-module school management system built solo for KAFA Masjid Al-A'laa Lokub, covering academics, attendance, kewangan (finance/yuran), notifications, and parent-student linking.
 - **Stack:** Laravel 11, Next.js 16, MySQL 8, Nginx, Cloudflare Tunnel, self-hosted on NOVAFORTRESS
-- **Hardening:** Completed a 16-finding security audit (Audit V3), including fixes for a payment race condition and XSS in print functions; TLS 1.2+/HSTS, SSL Labs A+
+- **Hardening:** Completed a 16-finding security audit (Audit V3), including fixes for a payment race condition and XSS in print functions, TLS 1.2+/HSTS, SSL Labs A+
 - **Ops:** Automated deploys, cron-driven Laravel scheduler, daily encrypted backups, custom alerting scripts
 - 🏆 **Winner, Anugerah Pembentang Sistem Terbaik** (Program Pendigitalan Pengurusan Masjid, DUN Karambunai)
 - **Role:** Sole developer: architecture, backend, frontend, deployment, security
@@ -43,9 +43,9 @@ Low-cost, open-source ZTNA framework for SMEs, built around a 3-zone architectur
 - **Tools:** OpenZiti, Laravel API Proxy, AWS EC2, mTLS
 - **Modules:** Identity & Endpoint Management, Dynamic Access Policy Engine, Endpoint Posture Verification, Geo-Fencing, Service Cloaking Monitor, Audit & Threat Logging (8 total)
 - **SDG Alignment:** Industry, Innovation & Infrastructure (SDG 9), Decent Work & Growth (SDG 8)
-- **Status:** FYP1 report submitted; FYP2 development and final report due Jan–Feb 2027
+- **Status:** FYP1 report submitted, FYP2 development and final report due Jan–Feb 2027
 
-### 🏘️ [JiranHub – Community Management System](https://github.com/anake-an/JiranHub)
+### 🏘️ [JiranHub: Community Management System](https://github.com/anake-an/JiranHub)
 Full-stack group project digitizing community event management and engagement.
 - **Stack:** Native PHP, MySQL, JavaScript (AJAX), HTML5/CSS3
 - **Features:** RBAC, QR code attendance scanning, payment verification, community forum
@@ -140,7 +140,7 @@ Ongoing self-hosted homelab used to deploy, monitor, and secure production-grade
 - CompTIA Cloud+ ce Certification *(valid through Apr 2029)*
 
 **Awards & Scholarships**
-- 🏆 **Anugerah Pembentang Sistem Terbaik** (Program Pendigitalan Pengurusan Masjid, DUN Karambunai; Kafa Lokub)
+- 🏆 **Anugerah Pembentang Sistem Terbaik** (Program Pendigitalan Pengurusan Masjid, DUN Karambunai, Kafa Lokub)
 - 🏅 **KPT-PCP Scholarship** (Pelajar Cemerlang Politeknik, 2023–2027)
 - 🏆 **Director's Award** (PolyCC & PSP, 2024, CGPA 3.99)
 - 🎖️ **Dean's List Award** (Every Semester, 2020–2023)
