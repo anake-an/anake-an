@@ -104,15 +104,50 @@ Ongoing self-hosted homelab used to deploy, monitor, and secure production-grade
 
 ## 🎖️ Certifications & Awards
 
-- ☁️ **CompTIA Cloud+**
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+
+**All badges verifiable on my [Credly profile](https://www.credly.com/users/aniqnaj)**
+
+</div>
+
+**Cisco Networking Academy**
+- CCNA: Introduction to Networks *(Apr 2025)*
+- CCNA: Switching, Routing, and Wireless Essentials *(Apr 2025)*
+- Network Support and Security *(Apr 2025)*
+- Introduction to Packet Tracer *(Apr 2025)*
+- Networking Basics *(Nov 2024)*
+- Networking Devices and Initial Configuration *(Nov 2024)*
+
+**Google Cloud Skill Badges**
+- Manage Kubernetes in Google Cloud *(May 2024)*
+- Perform Predictive Data Analysis in BigQuery *(May 2024)*
+- Monitor and Manage Google Cloud Resources *(May 2024)*
+- Analyze Images with the Cloud Vision API *(May 2024)*
+- Analyze Sentiment with Natural Language API *(May 2024)*
+- Analyze Speech and Language with Google APIs *(May 2024)*
+
+**Fortinet**
+- Getting Started in Cybersecurity 1.0 *(Mar 2023)*
+- Introduction to the Threat Landscape 1.0 *(Feb 2023)*
+- ~~Fortinet Certified Fundamentals: Cybersecurity~~ *(expired Mar 2025)*
+
+**CompTIA**
+- CompTIA Cloud+ ce Certification *(valid through Apr 2029)*
+
+**Awards & Scholarships**
 - 🏆 **Anugerah Pembentang Sistem Terbaik** (Program Pendigitalan Pengurusan Masjid, DUN Karambunai; Kafa Lokub)
 - 🏅 **KPT-PCP Scholarship** (Pelajar Cemerlang Politeknik, 2023–2027)
 - 🏆 **Director's Award** (PolyCC & PSP, 2024, CGPA 3.99)
 - 🎖️ **Dean's List Award** (Every Semester, 2020–2023)
-- 🔐 Fortinet NSE 1–3 (2023)
-- 📡 TM Fiber Optic Certification (CA1C, 2023)
+- 📡 TM Fiber Optic Certification (CA1C, 2023) *(not on Credly, institutional cert)*
 
 ---
+
 
 ## 💼 Experience
 
@@ -131,17 +166,19 @@ Ongoing self-hosted homelab used to deploy, monitor, and secure production-grade
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Repositories
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anake-an&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400"  />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anake-an&theme=tokyonight&hide_border=true&background=00000000&ring=3D6B5C&fire=8B7355"  />
+[![All Repositories](https://img.shields.io/badge/View%20All%20Repositories-3D6B5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anake-an?tab=repositories)
+
+*Kafa Lokub, Z-Forge (FYP), and NOVAFORTRESS aren't pinned here as they're self-hosted / private repos, not public GitHub projects. See Featured Projects above for those.*
 
 </div>
 
 ---
 
+<div align="center">
 
 ⚡ This README is my **GitHub Profile Portfolio**, showcasing production systems, academic labs, and ongoing infrastructure work. Updated as FYP2 and NOVAFORTRESS progress.
 
